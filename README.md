@@ -11,7 +11,7 @@ If that does not convince you, here are some other reason that might make you bu
 * Who do you trust more? A person who *says* they have created something or a person who *shows* what they have created?
 
 Here is a preview of the Project. <br>
-<a href="https://kingofdraknessi.github.io/VITChatbot/">Live Demo</a>
+<a href="https://kingofdraknessi.github.io/Chatbot/">Live Demo</a>
 
 ## Editing / Personalisation
 
