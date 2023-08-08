@@ -5,5 +5,5 @@ A chatbot is a type of computer program or artificial intelligence (AI) applicat
 Here , Our chatbot assist VIT related question.👀
 
 Here is a preview of the Project. <br>
-<a href="https://kingofdraknessi.github.io/Chatbot/">Live Demo</a>
+<a href="https://kingofdarknight.github.io/CHATBOT/">Live Demo</a>
 
