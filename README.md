@@ -9,10 +9,10 @@ A **VIT Chatbot** is an AI-driven virtual assistant designed to handle VIT-relat
 - **Accessible**: Available across various platforms like websites and apps.  
 
 ## Live Demo  
-🌐 Check out the chatbot in action: [Live Demo](https://kingofdarknight.github.io/CHATBOT/)  
+🌐 Check out the chatbot in action: [Live Demo](https://priyanshusingh017.github.io/CHATBOT/)  
 
 ## How to Use  
-1. Open the [Live Demo](https://kingofdarknight.github.io/CHATBOT/).  
+1. Open the [Live Demo](https://priyanshusingh017.github.io/CHATBOT/).  
 2. Start asking VIT-related questions.  
 3. Get instant responses tailored to your needs.
 
