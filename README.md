@@ -1,6 +1,10 @@
 # CHATBOT - Web-Based Chatbot Project
 
-![Project Preview](assets/screenshot.png)
+## Live preview
+
+<div align="center">
+  <img src="demo1.gif" alt="Demo" width="100%">
+</div>
 
 ## Overview
 A web-based chatbot built with HTML, CSS, and JavaScript that provides an interactive chat interface in the browser.
